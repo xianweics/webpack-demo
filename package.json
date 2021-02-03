@@ -5,6 +5,5 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "demo": "lerna run -- npm init -y"
   }
 }
