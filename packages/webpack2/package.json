@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "gitHead": "c620916b0368ae984ce9b1e9406b9d200b3ea9a6",
+  "devDependencies": {
+    "webpack-merge": "^5.7.3"
+  }
 }
