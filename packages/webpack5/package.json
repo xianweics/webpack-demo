@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack serve --config ./build/webpack.dev.js",
+    "build": "webpack --config ./build/webpack.prod.js"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "gitHead": "c620916b0368ae984ce9b1e9406b9d200b3ea9a6",
-  "dependencies": {
-    "plugins": "^1.0.0"
+  "devDependencies": {
+    "html-webpack-plugin": "^5.0.0",
+    "webpack": "^5.20.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
   }
 }

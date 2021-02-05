@@ -1,0 +1,5 @@
+# installation
+
+```javascript
+npm i
+```

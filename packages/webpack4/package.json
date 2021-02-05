@@ -10,8 +10,7 @@
   "license": "ISC",
   "gitHead": "c620916b0368ae984ce9b1e9406b9d200b3ea9a6",
   "devDependencies": {
-    "html-webpack-plugin": "4.5.1",
-    "plugins": "^1.0.0",
+    "html-webpack-plugin": "^4.5.1",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.2"
